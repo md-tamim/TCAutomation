@@ -1,0 +1,13 @@
+{
+    "browsers" : [
+    {
+        "name": "firefox",
+        "family": "firefox",
+        "channel":"stable"
+    },
+    {        
+        "name": "chrome",
+        "family": "chromium",
+        "channel":"stable"
+    }]  
+}
